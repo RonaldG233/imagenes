@@ -1,0 +1,48 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.header{
+  padding: 45px;
+  color: rgb(231, 15, 15);
+  color: #490;
+  background: #000;
+  background-color: rgb(63, 13, 173);
+  
+}
+.titulo{
+  text-align: center;;
+}
+main > section#section> div.contenedor > div.img , 
+main > section#section> div.contenedor > div#img, section.section {
+  background-image: url(hole.jpg);
+  background-size: cover;
+}
+.img, #img{
+  width: 500px;
+  height: 500px;
+  display: inline-block;
+}
+.contenedor{
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+  
+}
+section.section{
+  height: 300px;
+
+}
+.title{
+  font-size: 44px;
+  margin-top: 50px;
+  color: #000;
+}
+.parrafo{
+  color: #024760;
+}
+.main{
+  background-attachment: fixed;
+  
+}
